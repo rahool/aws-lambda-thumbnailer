@@ -1,4 +1,7 @@
-# aws
+# aws-lambda-thumbnailer
+aws Lambda Function for creating thumbnails of images uploaded to a s3 bucket
+
+Uses ![sharp image processing module](https://github.com/lovell/sharp) to resize images.
 
 ```
 $ npm install
